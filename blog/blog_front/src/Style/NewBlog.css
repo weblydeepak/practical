@@ -1,0 +1,35 @@
+.addBlogContainer{
+    padding: 20px;
+    background-color: white;
+    }
+    .blogForm{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 10px;
+        background-color:#f1f1f1;
+    }
+    .blogForm input{
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        outline: none;
+        background-color: white;
+    }
+    
+    .blogForm textarea{
+        resize: none;
+        overflow: hidden;
+        height: 150px;
+        border: none;
+        outline: none;
+    }
+    .blogForm button{
+        padding: 10px 20px;
+        border: none;
+        background-color: #f7b500;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+    }

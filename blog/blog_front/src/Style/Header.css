@@ -1,0 +1,37 @@
+@import url('./Base.css');
+.navBar{
+    background-color: #808080;
+    display: flex;
+}
+.Hearder{
+    width: 90%;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.it{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.logoutBtn{
+    width: 10%;
+    background-color: white;
+    border: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.midLogo{
+    margin-top: 20px;
+    background-color: #f7b500;
+    border-radius: 7px 7px 0 0; 
+    padding: 10px 10px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+
